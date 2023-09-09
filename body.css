@@ -1,0 +1,8 @@
+body {
+--file-line-width: 900px !important;
+}
+
+.markdown-preview-view.is-readable-line-width.page-80 .markdown-preview-sizer,
+.markdown-source-view.mod-cm6.is-readable-line-width.page-80 .cm-sizer {
+    max-width: 80%;
+}
