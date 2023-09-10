@@ -1,0 +1,12 @@
+/* EDIT MODE */
+
+.centerh1 .HyperMD-header.HyperMD-header-1 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.centerh1.markdown-preview-view h1 {
+    text-align: center;
+}
+
